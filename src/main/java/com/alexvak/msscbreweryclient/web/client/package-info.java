@@ -1,0 +1,1 @@
+package com.alexvak.msscbreweryclient.web.client;
